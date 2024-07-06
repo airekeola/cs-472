@@ -1,0 +1,61 @@
+body {
+    background-color: #FFFFFF;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamond, serif;
+
+}
+
+
+h1 {
+   background-color: #F0F0F0;
+    color: #A4A400;
+    font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+    text-decoration: underline;
+}
+h2, h3, h4, h5, h6{
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-size: 18pt;
+    text-decoration: underline;
+}
+
+a {
+    color: #A4A400;
+}
+
+.quotation {
+   margin: 0  30px;
+}
+.quote {
+    font-style: italic;
+    background-color: #FFFFA8;
+}
+
+.p-40{
+    padding-left: 40px;
+}
+.p-100{
+    padding-left: 100px;
+}
+
+
+.nolistyle{
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 0;
+}
+
+footer {
+    padding-top: 20px;
+ pre {
+    font-family: monospace;
+    text-align: right;
+}
+}
+
