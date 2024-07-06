@@ -1,0 +1,22 @@
+body{
+    background-color: #060218;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #FFFFFF;
+}
+
+h2{
+    color: #282888;
+}
+a {
+    color: #FF0000;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.keyword {
+    color: gold;
+    font-weight: bold;
+}
