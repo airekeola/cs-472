@@ -49,6 +49,9 @@ window.onload = function () {
         setScreen(selectedAnimation);
     };
 
+    selectedAnimation = window.ANIMATIONS[animationOption.value];
+    setScreen(selectedAnimation);
+
     sizeOption.onchange = (e) => {
         setFont(e.target[e.target.selectedIndex].dataset.fs);
     };
